@@ -1,5 +1,5 @@
+import DailyRotateFile from "winston-daily-rotate-file"
 import winston from "winston";
-import DailyRotateFile from "winston-daily-rotate-file";
 
 export const logger = winston.createLogger({
     level: 'info',
