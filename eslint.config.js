@@ -2,7 +2,7 @@ export default [
     {
         "files": [
             "src/**/*.js", 
-            "test/**/*.js" 
+            "test/**/*.js", 
         ],
         "rules": {
             "semi": "error",
